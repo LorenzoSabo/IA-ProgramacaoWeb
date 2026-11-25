@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+Api/node_modules/
+aula2/node_modules/
+
+# Build output
+aula2/build/
+
+# Uploaded product images (keep folder)
+Api/uploads/*
+!Api/uploads/.gitkeep
+
+# Logs and env
+npm-debug.log*
+.env
+.DS_Store
